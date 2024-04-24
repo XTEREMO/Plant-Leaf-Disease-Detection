@@ -14,4 +14,5 @@ The primary goal of plant leaf disease detection is to aid in the early and accu
 
 
 <h1>Accurecy Matrix for my Architecture</h1>
-![image](https://github.com/XTEREMO/Plant-Leaf-Disease-Detection/assets/103069841/6dddc0d4-8ec7-4c07-8724-9e1bb9c5a0a9)
+![image](https://github.com/XTEREMO/Plant-Leaf-Disease-Detection/assets/103069841/34f1ea00-906e-427a-8911-e139758447de)
+
