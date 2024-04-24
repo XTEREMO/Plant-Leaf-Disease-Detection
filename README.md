@@ -1,3 +1,3 @@
 # Plant-Leaf-Disease-Detection
 
-## Goal of this Project
+### Goal of this Project
